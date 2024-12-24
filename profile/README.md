@@ -24,12 +24,16 @@ Flow는 다음과 같은 기능과 특징을 제공합니다:
 
 ### 2. 메인 페이지
 - 트렌딩 포스트, 명예의 전당 및 채용 정보 확인
+
 | 웹 화면                               | 모바일 화면                           |
 |---------------------------------------|---------------------------------------|
 | ![웹 화면](https://github.com/user-attachments/assets/13133192-5af3-4f00-8d43-dbf46d7c8a8c) | ![모바일 화면](https://github.com/user-attachments/assets/79dc4205-e429-4c42-a249-32382237888c) |
 
+
+
 ### 3. 게시글 관리
 ![Post Feature](https://github.com/user-attachments/assets/c422c3fd-5310-4545-a56b-da4656f2aafe)
+
 | 웹 화면                               | 모바일 화면                           |
 |---------------------------------------|---------------------------------------|
 | ![웹 화면](https://github.com/user-attachments/assets/36d1f2fa-fad7-4bba-8e3a-3d3d4f26056c) | ![모바일 화면](https://github.com/user-attachments/assets/3bb4f78b-c611-4a2e-ab46-26f7ae6ce6a3) |

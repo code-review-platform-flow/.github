@@ -91,9 +91,9 @@ Flow는 다음과 같은 기능과 특징을 제공합니다:
 
 | 역할                | 이름       | Github                      |
 |---------------------|-----------|----------------------------|
-| 팀장 / 프론트엔드   | Ji Min Seong    | https://github.com/jiminseong    |
-| 백엔드 개발         | Park Chan Young    | https://github.com/steamedEggMaster   |
-| DevOps / 총괄      | abwarten    | https://github.com/abwarten      |
+| 팀장 / Frontend   | Ji Min Seong    | https://github.com/jiminseong    |
+| Backend / DevOps        | Park Chan Young    | https://github.com/steamedEggMaster   |
+| DevOps / Frontend / Backend      | abwarten    | https://github.com/abwarten      |
 
 ---
 

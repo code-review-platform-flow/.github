@@ -24,22 +24,26 @@ Flow는 다음과 같은 기능과 특징을 제공합니다:
 
 ### 2. 메인 페이지
 - 트렌딩 포스트, 명예의 전당 및 채용 정보 확인
-![메인 페이지](path/to/main-page-image.png)
+| 웹 화면                               | 모바일 화면                           |
+|---------------------------------------|---------------------------------------|
+| ![웹 화면](https://github.com/user-attachments/assets/13133192-5af3-4f00-8d43-dbf46d7c8a8c) | ![모바일 화면](https://github.com/user-attachments/assets/79dc4205-e429-4c42-a249-32382237888c) |
 
 ### 3. 게시글 관리
-- 게시물 작성, 수정, 삭제, 조회
-![게시글 관리](path/to/post-management-image.png)
+![Post Feature](https://github.com/user-attachments/assets/c422c3fd-5310-4545-a56b-da4656f2aafe)
+| 웹 화면                               | 모바일 화면                           |
+|---------------------------------------|---------------------------------------|
+| ![웹 화면](https://github.com/user-attachments/assets/36d1f2fa-fad7-4bba-8e3a-3d3d4f26056c) | ![모바일 화면](https://github.com/user-attachments/assets/3bb4f78b-c611-4a2e-ab46-26f7ae6ce6a3) |
 
 ### 4. 커피챗 관리
 - 커피챗 요청 및 결제
-![커피챗](path/to/coffee-chat-image.png)
+![Coffee Chat](https://github.com/user-attachments/assets/36d1f2fa-fad7-4bba-8e3a-3d3d4f26056c)
 
 ---
 
 ## ☁ 클라우드 아키텍처
 
 ### 시스템 구성도
-![클라우드 아키텍처](path/to/cloud-architecture-image.png)
+![클라우드 아키텍처](https://media-cdn.atlassian.com/file/754afe90-adeb-459a-ab94-53f077342b60/image/cdn?allowAnimated=true&client=daef7aef-6c7c-4794-85da-f8155ef1605d&collection=contentId-557076&height=390&max-age=2592000&mode=full-fit&source=mediaCard&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJkYWVmN2FlZi02YzdjLTQ3OTQtODVkYS1mODE1NWVmMTYwNWQiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpjb2xsZWN0aW9uOmNvbnRlbnRJZC01NTcwNzYiOlsicmVhZCJdfSwiZXhwIjoxNzM1MDQ2ODkwLCJuYmYiOjE3MzUwNDQwMTB9.zCxi5Xl_PK4Ww2l-ko7R0GRjNCjTAwuJ2Kb3lOM5gQs&width=760)
 
 ### 설명
 - **Compute Engine**: Google Cloud의 인스턴스 기반 애플리케이션 실행

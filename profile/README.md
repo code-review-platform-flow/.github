@@ -89,7 +89,7 @@ Flow는 다음과 같은 기능과 특징을 제공합니다:
 
 ## 👥 팀 구성원
 
-| Role                | Name       | Github                      |
+| 역할                | 이름       | Github                      |
 |---------------------|-----------|----------------------------|
 | 팀장 / 프론트엔드   | Ji Min Seong    | https://github.com/jiminseong    |
 | 백엔드 개발         | Park Chan Young    | https://github.com/steamedEggMaster   |

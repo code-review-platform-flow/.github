@@ -76,7 +76,7 @@ Flow는 다음과 같은 기능과 특징을 제공합니다:
 ### 프론트엔드
 - React, Next.js
 - TypeScript
-- Tailwind CSS
+- Styled-components
 
 ### 백엔드
 - Spring Boot

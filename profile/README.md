@@ -103,4 +103,5 @@ Flow는 다음과 같은 기능과 특징을 제공합니다:
 
 ## 🔗 주요 링크
 - [서비스 URL](https://front.gcuflow.site)
+- [서비스 소개 영상](https://www.youtube.com/watch?v=xUex9mmyuQU)
 

@@ -98,7 +98,7 @@ Flow는 다음과 같은 기능과 특징을 제공합니다:
    - [flow-payment](https://github.com/code-review-platform-flow/flow-payment)
    - [flow-admin-main](https://github.com/code-review-platform-flow/flow-admin-main)
 3. **DevOps**: CI/CD 및 배포 관리 (Terraform, Kubernetes)
-   - [flow-terraform](https://github.com/code-review-platform-flow/flow-terraform/settings)
+   - [flow-terraform](https://github.com/code-review-platform-flow/flow-terraform)
    - flow-manifest
    - flow-terraform-tfvars
 

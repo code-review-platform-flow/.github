@@ -43,7 +43,10 @@ Flow는 다음과 같은 기능과 특징을 제공합니다:
 ## ☁ 클라우드 아키텍처
 
 ### 시스템 구성도
-![클라우드 아키텍처](https://media-cdn.atlassian.com/file/754afe90-adeb-459a-ab94-53f077342b60/image/cdn?allowAnimated=true&client=daef7aef-6c7c-4794-85da-f8155ef1605d&collection=contentId-557076&height=390&max-age=2592000&mode=full-fit&source=mediaCard&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJkYWVmN2FlZi02YzdjLTQ3OTQtODVkYS1mODE1NWVmMTYwNWQiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpjb2xsZWN0aW9uOmNvbnRlbnRJZC01NTcwNzYiOlsicmVhZCJdfSwiZXhwIjoxNzM1MDQ2ODkwLCJuYmYiOjE3MzUwNDQwMTB9.zCxi5Xl_PK4Ww2l-ko7R0GRjNCjTAwuJ2Kb3lOM5gQs&width=760)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7e108a4-b3b7-45b0-ae8e-4e993d3fc993" width="800"/>
+</p>
 
 ### 설명
 - **Compute Engine**: Google Cloud의 인스턴스 기반 애플리케이션 실행

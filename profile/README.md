@@ -23,6 +23,9 @@
 - [👥 팀 구성원](#-팀-구성원)
 - [🔗 주요 링크](#-주요-링크)
 
+<br>
+<br>
+<br>
 
 ## 📌 프로젝트 개요
 
@@ -34,7 +37,9 @@ Flow는 다음과 같은 기능과 특징을 제공합니다:
 - **채용 정보 제공**: API를 통한 최신 취업 정보
 - **명예의 전당**: 우수 기여 사용자들을 위한 동기부여 시스템
 
----
+<br>
+<br>
+<br>
 
 ## 🖼 주요 화면
 
@@ -58,7 +63,9 @@ Flow는 다음과 같은 기능과 특징을 제공합니다:
 - 커피챗 요청 및 결제
 ![Coffee Chat](https://github.com/user-attachments/assets/36d1f2fa-fad7-4bba-8e3a-3d3d4f26056c)
 
----
+<br>
+<br>
+<br>
 
 ## ☁ 클라우드 아키텍처
 
@@ -75,7 +82,9 @@ Flow는 다음과 같은 기능과 특징을 제공합니다:
 - **Artifact Registry**: 컨테이너 이미지 저장소
 - **Grafana & Prometheus**: 모니터링 및 알림 시스템
 
----
+<br>
+<br>
+<br>
 
 ## 📂 소스 코드 구조
 
@@ -93,7 +102,9 @@ Flow는 다음과 같은 기능과 특징을 제공합니다:
    - flow-manifest
    - flow-terraform-tfvars
 
----
+<br>
+<br>
+<br>
 
 ## 🔧 기술 스택
 
@@ -113,7 +124,9 @@ Flow는 다음과 같은 기능과 특징을 제공합니다:
 - ArgoCD
 - Terraform
 
----
+<br>
+<br>
+<br>
 
 ## 👥 팀 구성원
 
@@ -123,7 +136,9 @@ Flow는 다음과 같은 기능과 특징을 제공합니다:
 | Backend / DevOps        | Park Chan Young    | https://github.com/steamedEggMaster   |
 | DevOps / Frontend / Backend      | abwarten    | https://github.com/abwarten      |
 
----
+<br>
+<br>
+<br>
 
 ## 🔗 주요 링크
 - [서비스 URL](https://front.gcuflow.site)

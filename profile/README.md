@@ -61,16 +61,17 @@ Flow는 다음과 같은 기능과 특징을 제공합니다:
 
 ### 주요 레포지토리
 1. **프론트엔드**: 사용자 인터페이스 개발 (React, Next.js)
-   - `flow-web`
-   - `flow-admin-dashboard`
+   - [flow-web](https://github.com/code-review-platform-flow/flow-web)
+   - [flow-admin-dashboard](https://github.com/code-review-platform-flow/flow-admin-dashboard)
 2. **백엔드**: 비즈니스 로직 및 데이터 관리 (Spring Boot)
-   - `flow-main`
-   - `flow-api-gateway`
-   - `flow-payment`
-   - `flow-admin-main`
+   - [flow-main](https://github.com/code-review-platform-flow/flow-main)
+   - [flow-api-gateway](https://github.com/code-review-platform-flow/flow-api-gateway)
+   - [flow-payment](https://github.com/code-review-platform-flow/flow-payment)
+   - [flow-admin-main](https://github.com/code-review-platform-flow/flow-admin-main)
 3. **DevOps**: CI/CD 및 배포 관리 (Terraform, Kubernetes)
-   - `flow-terraform`
-   - `flow-manifest`
+   - [flow-terraform](https://github.com/code-review-platform-flow/flow-terraform/settings)
+   - flow-manifest
+   - flow-terraform-tfvars
 
 ---
 
